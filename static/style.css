@@ -1,0 +1,12 @@
+th{
+    padding: 0px 15px ;
+    border: black solid;
+}
+tb{
+    height: 30px;
+    width: 50px;
+    padding: 25px;
+    border: solid black;
+    position: relative;
+    top: 90px;
+}
